@@ -1,0 +1,13 @@
+node_modules/
+dist/
+output/
+.codex-context/
+AGENTS.md
+.env
+.env.*
+!.env.example
+.DS_Store
+*.log
+private/
+test-results/
+playwright-report/

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Daniel X Workflow"
+  short_description: "X 写作、下划线排版与双模式长文预览"
+  default_prompt: "用 $daniel-x-workflow 整理这份内容，保留原文，生成 X 下划线版和完整设计预览，先不要发布。"

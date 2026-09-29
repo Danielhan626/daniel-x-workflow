@@ -1,0 +1,29 @@
+{
+  "default": "x-native-underline-v2",
+  "profiles": {
+    "x-native-underline-v2": {
+      "date": "2026-09-28",
+      "keywordTag": "u",
+      "coloredText": false,
+      "backgroundHighlight": false,
+      "quotationTag": "blockquote",
+      "basis": "Maintainer-reported editor support; verify in your own X editor."
+    },
+    "x-native-bold-v1": {
+      "date": "2026-09-28",
+      "keywordTag": "strong",
+      "coloredText": false,
+      "backgroundHighlight": false,
+      "quotationTag": "blockquote",
+      "basis": "Preserved conservative fallback; not the default."
+    },
+    "design-full-v1": {
+      "date": "2026-09-28",
+      "keywordTag": "u",
+      "coloredText": true,
+      "backgroundHighlight": true,
+      "quotationTag": "blockquote",
+      "basis": "Local full-design preview, not a promise of X CSS support."
+    }
+  }
+}
